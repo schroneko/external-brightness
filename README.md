@@ -37,4 +37,6 @@ xcodebuild -project MonitorControl.xcodeproj \
 
 ## License
 
-MIT
+ExternalBrightness is distributed under the MIT License.
+
+This app is derived from MonitorControl, which is also distributed under the MIT License. The original license notice is preserved in `License.txt`.
